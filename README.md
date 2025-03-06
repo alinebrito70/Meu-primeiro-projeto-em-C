@@ -7,60 +7,24 @@ Este é um projeto de CRUD em C que permite cadastrar, atualizar, listar e exclu
 O sistema conta com os seguintes módulos:
 
 🎥 Filmes:
-
-Cadastrar filme
-
-Listar filmes
-
-Atualizar filme
-
-Apagar filme
+Cadastrar filme, Listar filmes, Atualizar filme, Apagar filme.
 
 👤 Clientes:
-
-Cadastrar cliente
-
-Listar clientes
-
-Atualizar cliente
-
-Apagar cliente
+Cadastrar cliente, Listar clientes, Atualizar cliente, Apagar cliente
 
 🏠 Endereços:
-
-Cadastrar endereço
-
-Listar endereços
-
-Atualizar endereço
-
-Excluir endereço
+Cadastrar endereço, Listar endereços, Atualizar endereço, Excluir endereço
 
 💬 Feedback de Clientes:
 
-Adicionar feedback
-
-Listar feedbacks
-
-Buscar feedback por cliente
-
-Atualizar feedback
-
-Excluir feedback
+Adicionar feedback, Listar feedbacks, Buscar feedback por cliente, Atualizar feedback, Excluir feedback
 
 🎟️ Aluguéis:
-Cadastrar aluguel
-
-Listar aluguéis
-
-Atualizar aluguel
-
-Apagar aluguel
+Cadastrar aluguel, Listar aluguéis, Atualizar aluguel, Apagar aluguel
 
 🖥️ Como Compilar e Executar
 
 Para compilar o projeto, utilize o GCC no Prompt de Comando (CMD):
-
 
 gcc cliente.c filme.c endereco.c feedback.c alugar.c menu.c -o projeto.exe 
 
@@ -92,3 +56,8 @@ O projeto é composto por arquivos .c e .h, garantindo uma separação organizad
 Linguagem C,
 Compilador GCC,
 Execução via Prompt de Comando.
+
+👨‍💻 Desenvolvido por
+Aline, Derik, Alysson, Maria Eugênia, Alan.
+
+✅ Apresentado e aprovado pela professora Ana Emília na Universidade Federal do Vale do São Francisco (Univasf)
