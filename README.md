@@ -61,32 +61,16 @@ Apagar aluguel
 
 Para compilar o projeto, utilize o GCC no Prompt de Comando (CMD):
 
-cmd,
-Copiar,
-Editar,
-gcc cliente.c filme.c endereco.c feedback.c alugar.c menu.c -o projeto.exe .
+
+gcc cliente.c filme.c endereco.c feedback.c alugar.c menu.c -o projeto.exe 
 
 Após a compilação, execute o programa com:
 
-cmd,
-Copiar,
-Editar,
 projeto.exe
-
-Caso esteja em um terminal Unix (Linux/Mac), use:
-
-sh,
-Copiar,
-Editar,
-./projeto.exe .
 
 📂 Estrutura do Projeto
 
-O projeto é composto por arquivos .c e .h, garantindo uma separação organizada do código:
-
-less,
-Copiar,
-Editar.
+O projeto é composto por arquivos .c e .h, garantindo uma separação organizada do código
 
 📂 SistemaLocadora
  ├── cliente.c
