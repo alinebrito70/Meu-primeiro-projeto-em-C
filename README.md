@@ -58,6 +58,6 @@ Compilador GCC,
 Execução via Prompt de Comando.
 
 👨‍💻 Desenvolvido por
-Aline, Derik, Alysson, Maria Eugênia, Alan.
+Aline, Derik, Alysson, Maria Eugênia e Alan.
 
 ✅ Apresentado e aprovado pela professora Ana Emília na Universidade Federal do Vale do São Francisco (Univasf)
